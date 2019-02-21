@@ -16,15 +16,6 @@ body {
   margin: auto;
 }
 
-#wrapper {
-  margin: 0, auto;
-  background-color: #777777;
-  width: 920px;
-  height: 800px;
-  padding:10px;
-}
-
-
 .box{
   text-align: center;
   color: #777;
